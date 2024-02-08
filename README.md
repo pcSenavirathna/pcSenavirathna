@@ -8,7 +8,7 @@
 <img src="https://i.pinimg.com/originals/93/4b/e2/934be2865cf79d85cac19f8beb67bf27.gif" /> 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/pcsplus/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/pcSenavirathna/count.svg?"  />
 </div>
 
 <hr>
