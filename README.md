@@ -66,7 +66,12 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+
+
+
 <h3 align="left">Tools:</h3>
 <p>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.svg" alt="adobe premiere" width="40" height="40"/> </a> 
