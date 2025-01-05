@@ -69,6 +69,7 @@
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="python" width="40" height="40"/> </a> 
      <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="python" width="40" height="40"/> </a> 
+     <a href="https://laravel.com/"> <img src="https://en.wikipedia.org/wiki/Laravel#/media/File:Laravel.svg" alt="Leravel" width="40" height="40"/> </a> 
 </p>
 
 
