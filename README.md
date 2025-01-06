@@ -15,7 +15,7 @@
 
 - 👀 I’m interested in Web Development & Mobile app Development
 
-- 🌱 I’m currently learning **Angular web development, Flutter, React native and C#**
+- 🌱 I’m currently learning **Angular web development, and Laravel php**
 
 - 💬 Ask me about **Any Questions**
 
