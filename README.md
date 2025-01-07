@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prasad Chandima</h1>
 <div align="center">
   <img height="150" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
+  <hr>
+  <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=pcSenavirathna&theme=juicyfresh&no-bg=true" />
+
 </div>
+
 <hr>
 <h3 align="center">I'm Prasad Chandima from Belihuloya and I'm a 3rd year undergraduate software engineer student in SLIIT University.</h3>
 
@@ -25,17 +30,22 @@
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=pcSenavirathna&theme=dark&show_icons=true&count_private=true" />
+      <hr>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcSenavirathna&theme=tokyonight" alt="mystreak"/>
+    </td>
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pcSenavirathna&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcSenavirathna&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+    </td>
+  </tr>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pcSenavirathna&theme=dark&show_icons=true&count_private=true" />
-  <br><hr>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=pcSenavirathna&theme=dark" alt="GitHub Streak" />
-</td>
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pcSenavirathna&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
 </table>
 
 <h3 align="left">Connect with me:</h3>
