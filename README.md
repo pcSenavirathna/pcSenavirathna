@@ -18,9 +18,9 @@
 
 <hr>
 
-- 👀 I’m interested in Web Development & Mobile app Development
+- 👀 I’m interested in Web Development, Desktop Application development & Mobile app Development
 
-- 🌱 I’m currently learning **Angular web development, and Laravel php**
+- 🌱 I’m currently learning **C# with ASP .Net desktop application development**
 
 - 💬 Ask me about **Any Questions**
 
@@ -63,7 +63,6 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 
-  <a href="[https://nodejs.org/en](https://angular.dev/)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="35" height="40"/> </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-1024.png" alt="node.js logo" width="35" height="40"/> </a> 
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/cluster-illustrations/kotlin-hero.svg" alt="kotlin logo" width="35" height="40"/> </a> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" width="35" height="40"/> </a> 
@@ -72,7 +71,6 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c# logo" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" alt="python" width="40" height="40"/> </a> 
@@ -92,10 +90,8 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/photoshop/photoshop_PNG3.png" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.canva.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" /></a>
-  <a href="https://wordpress.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -104,6 +100,7 @@
   <a href="https://www.postman.com/"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40" alt="postman"  /><img width="12" /></a>
   <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-lk_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624368&adgroup=115749715143&cq_cmp=12212624368&gad_source=1&gclid=Cj0KCQiA1rSsBhDHARIsANB4EJY9x0QAReWDBT3P3On3i0xdnbZmCA4o21toFxk21WmqAfh83vD6Kd8aAn5cEALw_wcB"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" height="40" alt="postman"  /><img width="12" /></a>
   <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="40" alt="ubuntu"  /><img width="12" /></a>
+   <a href="https://www.docker.com/"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-1024.png" height="40" alt="docker"  /><img width="12" /></a>
 
 </p>
 <hr>
