@@ -8,7 +8,7 @@
 </div>
 
 <hr>
-<h3 align="center">I'm Prasad Chandima from Belihuloya and I'm a 3rd year undergraduate software engineer student in SLIIT University.</h3>
+<h3 align="center">I'm Prasad Chandima from Belihuloya and I'm a 4rd year undergraduate software engineer student in SLIIT University.</h3>
 
 <img src="https://i.pinimg.com/originals/93/4b/e2/934be2865cf79d85cac19f8beb67bf27.gif" /> 
 
